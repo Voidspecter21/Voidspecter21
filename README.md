@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Voidspecter21
 - 👀 I’m interested in ...Web 3
-- 🌱 I’m currently learning ...crypto trading
-- 💞️ I’m looking to collaborate on ...Web 3
+- 🌱 I’m currently learning ...crypto trading, data analysis
+- 💞️ I’m looking to collaborate on ...Web 3, Analysis
 - 📫 How to reach me ...elishaabraham25@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
