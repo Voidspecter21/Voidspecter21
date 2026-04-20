@@ -19,10 +19,12 @@ I'm a final-year Nursing Science student at the **University of Ilorin, Nigeria*
 
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=ibm&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
 - **Statistics:** Descriptive analysis, Chi-square, t-tests, ANOVA, regression, correlation
-- **Data tools:** SPSS, Microsoft Excel (pivot tables, charts, functions), Google Sheets
+- **Data tools:** SPSS, Microsoft Excel (pivot tables, charts, functions), Power BI, SQL, Google Sheets
 - **Research:** Quantitative & qualitative methods, literature review, scientific writing
 - **Soft skills:** Leadership, public speaking, project management
 
@@ -52,6 +54,7 @@ I'm a final-year Nursing Science student at the **University of Ilorin, Nigeria*
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-abraham-a90569352)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ElishaAbra28539)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elishaabraham25@gmail.com)
 
 ---
