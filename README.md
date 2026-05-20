@@ -1,6 +1,6 @@
 # Hi, I'm Abraham Elisha 👋
 
-### Data Analyst | Nursing Science Student | Healthcare Researcher
+### Data Analyst | SQL | Healthcare Research | Nursing Science Student
 
 I'm a final-year Nursing Science student at the **University of Ilorin, Nigeria**, with a passion for using data to improve healthcare outcomes. I combine clinical knowledge with analytical skills to turn messy health data into clear, actionable insights.
 
@@ -8,10 +8,10 @@ I'm a final-year Nursing Science student at the **University of Ilorin, Nigeria*
 
 ## 🔍 What I Do
 
+- **SQL Analytics** — writing queries from basic SELECT/WHERE all the way to subqueries, CTEs, and window functions (RANK, LAG, LEAD) on real business datasets
 - **Healthcare Data Analysis** — applying statistical methods to real clinical and public health datasets
 - **SPSS & Excel Analytics** — descriptive statistics, inferential analysis, regression, cross-tabulations
 - **Research Support** — assisting with undergraduate research design, data collection, and reporting
-- **Community Health** — translating data findings into health education and outreach
 
 ---
 
@@ -20,11 +20,13 @@ I'm a final-year Nursing Science student at the **University of Ilorin, Nigeria*
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=ibm&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
+- **SQL:** SELECT · WHERE · JOIN · GROUP BY · HAVING · Subqueries · CTEs · Window Functions (RANK, LAG, LEAD)
 - **Statistics:** Descriptive analysis, Chi-square, t-tests, ANOVA, regression, correlation
-- **Data tools:** SPSS, Microsoft Excel (pivot tables, charts, functions), Power BI, SQL, Google Sheets
+- **Data tools:** SPSS, Microsoft Excel (pivot tables, charts, functions), Power BI, Google Sheets
 - **Research:** Quantitative & qualitative methods, literature review, scientific writing
 - **Soft skills:** Leadership, public speaking, project management
 
@@ -34,6 +36,7 @@ I'm a final-year Nursing Science student at the **University of Ilorin, Nigeria*
 
 | Project | Description | Tools |
 |---|---|---|
+| [TDI SQL Analysis](https://github.com/Voidspecter21/TDI-SQL-Analysis) | 5-week structured SQL portfolio — subqueries, CTEs, window functions (RANK, LAG, LEAD) on the Parch & Posey business dataset | SQL |
 | [Corneal Ulcers Analysis](https://github.com/Voidspecter21/Corneal-ulcers-analysis) | Epidemiological breakdown of corneal ulcer cases — prevalence, risk factors, and demographic patterns | SPSS |
 | [Employee Attrition Analysis](https://github.com/Voidspecter21/Employee-attrition-analysis) | HR data analysis identifying root causes of staff turnover with retention recommendations | Excel |
 | [Assertiveness in Clinical Education](https://github.com/Voidspecter21/Assertiveness-study-analysis) | Evaluating factors contributing to assertiveness in nursing students | SPSS |
